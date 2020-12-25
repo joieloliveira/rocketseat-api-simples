@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "joiel",
+        "username": "prometeu",
+        "email": "joiel@joiel.com",
+        "address": {
+            "street": "alacide",
+            "city": "belem",
+            "zipcode": "66820020"
+
+        }
+
+    },
+    {
+        "id": 2,
+        "name": "lemos",
+        "username": "johale",
+        "email": "lemos@lemos.com",
+        "address": {
+            "street": "alacide2",
+            "city": "belem2",
+            "zipcode": "66820-020"
+
+        }
+
+    }
+]
